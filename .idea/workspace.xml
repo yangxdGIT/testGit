@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a98c863f-1c01-42ed-8e3e-13b0e7a4de2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsobDPxmUKmo9HgCNwaNKnguFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/algorithm007-class02/Week_04" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a98c863f-1c01-42ed-8e3e-13b0e7a4de2e" name="Default Changelist" comment="" />
+      <created>1585637231641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585637231641</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1586676756817">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="778" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1027@0.0.1707.1027" timestamp="1586676756817" />
+    <state x="557" y="322" key="FileChooserDialogImpl" timestamp="1586100795088">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="557" y="322" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1586100795088" />
+    <state x="354" y="156" key="SettingsEditor" timestamp="1585733371981">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="354" y="156" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1585733371981" />
+    <state x="730" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1591178887038">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="730" y="338" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1591178887038" />
+    <state x="675" y="113" width="773" height="801" key="find.popup" timestamp="1585741413047">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="675" y="113" width="773" height="801" key="find.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1585741413047" />
+  </component>
+</project>
